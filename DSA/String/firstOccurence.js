@@ -5,3 +5,4 @@ var strStr = function (haystack, needle) {
 
 // Input: haystack = "sadbutsad", needle = "sad"
 // Output: 0
+//test
